@@ -1,4 +1,5 @@
 # Table of contents
 
-* [OpenBrush-Contracts](README.md)
+* [Welcome](README.md)
+* [Links](links.md)
 
