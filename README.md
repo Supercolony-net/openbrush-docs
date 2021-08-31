@@ -6,7 +6,7 @@
 
 This library contains traits definition of standard tokens. Everyone who implements these traits will have the same API during cross contract calls. Also the library provides default implementation on Rust level \([issue](https://github.com/Supercolony-net/openbrush-contracts/issues/5) describes why\) which can be reused or customized by everyone.
 
-To understand how to use the library better to check [examples](examples/) and [doc](https://github.com/Supercolony-net/openbrush-contracts/tree/cd029a4890bf4807ab1d5997ad423b598d76e651/doc/README.md) folders.
+To understand how to use the library better to check [examples]() and [doc](https://github.com/Supercolony-net/openbrush-contracts/tree/cd029a4890bf4807ab1d5997ad423b598d76e651/doc/README.md) folders.
 
 At the moment library is using own version of ink!, but it is the same as [ink!-3.0-rc3](https://github.com/paritytech/ink/releases/tag/v3.0.0-rc3) with additional [fix](https://github.com/Supercolony-net/ink/commit/4ade565ca0adf746c130ef32e50f54a9504970cb). !ink will fix that issue in next release.
 
